@@ -1,1 +1,5 @@
-# Project-Manual-Testing
+<h1> Manual Testing Project </h1>
+
+____________________________________________________________________________________________________________________
+
+<h1> Functional specifications </h1>
