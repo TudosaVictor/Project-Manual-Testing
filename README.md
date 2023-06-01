@@ -26,9 +26,8 @@
  It is a detailed document which describes software testing areas and activities. It outlines the test strategy, objectives, test schedule, required resources (human resources, software, and hardware), test estimation and test deliverables.
 </p>
 
-<p>
-    1.1.1 Roles assigned to the project and persons allocated
-  
+   <h2> 1.1.1 Roles assigned to the project and persons allocated </h2>
+  <p>
   Project manager - 
   
   Product owner - 
