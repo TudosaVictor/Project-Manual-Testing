@@ -29,10 +29,13 @@
 <p>
     1.1.1 Roles assigned to the project and persons allocated
   
-  Project manager - Andrei Popescu
-  Product owner - Madalina Ionescu
-  Software developer - Gabriela Tomescu
-  QA Engineer - Iulia Albu
+  Project manager - 
+  
+  Product owner - 
+  
+  Software developer - 
+  
+  QA Engineer - Victor Tudosa
   </p>
   
 
