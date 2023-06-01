@@ -2,8 +2,11 @@
 
 <p> The scope of the final project is to use all gained knowledge throught the course and apply them in practice, using a live application.
   Application under test: https://www.aeries.com/solutions/demo/
+  
   API Documentation: https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation
+  
   The final project will be split into 2 sections:  X and Y
+  
   Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 <h1> Functional specifications </h1>
