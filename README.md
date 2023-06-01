@@ -40,4 +40,17 @@
   QA Engineer - Victor Tudosa
   </p>
   
+   <h2> 1.1.2 Entry criteria defined </h2>
+ <p>  
+  -che requirement document should be available
+  
+  -complete understanding of the application flow is required
+  
+  -the Test Plan Document should be ready.
+  
+  -roles needed for the project are allocated
+  
+  -initial project risks were detected and mitigated
+  </p>
+
 
