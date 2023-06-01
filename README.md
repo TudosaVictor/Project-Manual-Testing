@@ -52,5 +52,19 @@
   
   -the Test Plan Document should be ready.
   </p>
+  
+ <h2> 1.1.3 Exit criteria defined </h2>
+ 
+-number of unresolved bugs is insignificant or they have low priority
+
+-all tests have been executed
+
+-all resolved bugs have been re-tested and approved by the QA team
+
+-deadline was reached
+
+-no detected major risk remained un-mitigated
+
+-exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
 
