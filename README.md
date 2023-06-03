@@ -7,7 +7,7 @@
   
       The final project will be split into 2 sections:  X and Y
   
-      Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+      Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench. </p>
 
 <h1> Functional specifications </h1>
 
