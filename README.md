@@ -66,10 +66,10 @@
 
 -exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
-<h2>  1.1.4 Test scope
+<h2>  1.1.4 Test scope </h2>
       
-      Test in scope: 
+   <p> Test in scope: 
       
       Tests not in scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
-
+    </p>
 
