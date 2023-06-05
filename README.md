@@ -43,28 +43,28 @@
   
    <h2> 1.1.2 Entry criteria defined </h2>
   
-  -the requirement document should be available
+  - the requirement document should be available
   
-  -complete understanding of the application flow is required
+  - complete understanding of the application flow is required
   
-  -roles needed for the project are allocated
+  - roles needed for the project are allocated
   
-  -initial project risks were detected and mitigated
+  - initial project risks were detected and mitigated
   
-  -the Test Plan Document should be ready.
+  - the Test Plan Document should be ready.
   
   
    <h2> 1.1.3 Exit criteria defined </h2>
  
--number of unresolved bugs is insignificant or they have low priority
+  - number of unresolved bugs is insignificant or they have low priority
 
--all tests have been executed
+  - all tests have been executed
 
--all resolved bugs have been re-tested and approved by the QA team
+  - all resolved bugs have been re-tested and approved by the QA team
 
--deadline was reached
+  - deadline was reached
 
-- no detected major risk remained un-mitigated
+  - no detected major risk remained un-mitigated
 
 
 <h2>  1.1.4 Test scope </h2>
@@ -75,8 +75,8 @@
    
    <h2> 1.1.5 Risks detected </h2>
    
-   * Project risks: lack of tester experience, documentation not updated with the current version of the software
+   - Project risks: lack of tester experience, documentation not updated with the current version of the software
    
-   * Product risks: high competion on market
+   - Product risks: high competion on market
     
 
