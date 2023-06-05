@@ -69,8 +69,14 @@
 
 <h2>  1.1.4 Test scope </h2>
       
-   Test in scope: GUI testing, 
+   Test in scope: GUI testing, functional testing, usability testing,
       
    Tests not in scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
+   
+   <h2> 1.1.5 Risks detected </h2>
+   
+   *Project risks: lack of tester experience, documentation not updated with the current version of the software
+   
+   *Product risks: high competion on market
     
 
