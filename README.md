@@ -50,7 +50,7 @@
   -initial project risks were detected and mitigated
   
   -the Test Plan Document should be ready.
-  </p>
+  
   
    <h2> 1.1.3 Exit criteria defined </h2>
  
@@ -66,10 +66,11 @@
 
 -exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
+
 <h2>  1.1.4 Test scope </h2>
       
-   <p> Test in scope: 
+   Test in scope: GUI testing, 
       
-      Tests not in scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
-    </p>
+   Tests not in scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
+    
 
