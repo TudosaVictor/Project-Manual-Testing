@@ -1,10 +1,10 @@
 <h1> Manual Testing Project </h1>
 
-   The scope of the final project is to use all gained knowledge throught the course and apply them in practice, using a live application.
+   The scope of the final project is to use all gained knowledge throught the course and apply them in practice, using a live application OrangeHRM Demo.
       
-   Application under test: https://www.aeries.com/solutions/demo/
+   Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
   
-   API Documentation: https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation
+   API Documentation: ????
   
    The final project will be split into 2 sections:  X and Y
   
@@ -25,7 +25,7 @@
 
    <h2> Test planing </h2>
 <p>
-    The Test Plan is designed to describe all details of testing for the Dependants module from the https://demo.aeries.net/ParentPortal/LoginParent.aspx?demo=True&user=student%40aeries.com&pwd=1234 website.
+    The Test Plan is designed to describe all details of testing for the Dependants module from the https://opensource-demo.orangehrmlive.com/ website.
     It is a detailed document which describes software testing areas and activities. It outlines the test strategy, objectives, test schedule, required resources (human resources, software, and hardware), test estimation and test deliverables. </p>
 
 
@@ -73,11 +73,13 @@
       
    Tests out of scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
    
+   
    <h2> 1.1.5 Risks detected </h2>
    
    - Project risks: lack of tester experience, documentation not updated with the current version of the software
    
    - Product risks: high competion on market
+
 
 <h2>  1.1.6 Evaluating entry criteria </h2>
 
