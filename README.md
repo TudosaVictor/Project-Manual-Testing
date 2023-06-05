@@ -71,7 +71,7 @@
       
    Test in scope: GUI testing, functional testing, usability testing,
       
-   Tests not in scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
+   Tests out of scope: performance testing, stress testing, security, integrations of the dependents module with other modules, automation testing, compatibility testing with multiple browsers
    
    <h2> 1.1.5 Risks detected </h2>
    
