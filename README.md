@@ -30,7 +30,7 @@
 
 
    <h2> 1.1.1 Roles assigned to the project and persons allocated </h2>
-  <p>
+  
   Project manager - 
   
   Product owner - 
@@ -38,7 +38,7 @@
   Software developer - 
   
   QA Engineer - Victor Tudosa
-  </p>
+  
   
   
    <h2> 1.1.2 Entry criteria defined </h2>
@@ -78,5 +78,9 @@
    - Project risks: lack of tester experience, documentation not updated with the current version of the software
    
    - Product risks: high competion on market
+
+<h2>  1.1.6 Evaluating entry criteria </h2>
+
+   The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
     
 
