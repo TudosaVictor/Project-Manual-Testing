@@ -40,8 +40,9 @@
   QA Engineer - Victor Tudosa
   </p>
   
+  
    <h2> 1.1.2 Entry criteria defined </h2>
- <p>  
+  
   -the requirement document should be available
   
   -complete understanding of the application flow is required
@@ -64,8 +65,6 @@
 -deadline was reached
 
 -no detected major risk remained un-mitigated
-
--exploratory regression testing must be performed on the My Info module, which includes the Dependents section
 
 
 <h2>  1.1.4 Test scope </h2>
