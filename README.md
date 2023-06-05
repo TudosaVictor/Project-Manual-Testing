@@ -4,7 +4,7 @@
       
    Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
   
-   API Documentation: ????
+   API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
   
    The final project will be split into 2 sections:  X and Y
   
