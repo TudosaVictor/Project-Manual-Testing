@@ -51,7 +51,9 @@
   
   - initial project risks were detected and mitigated
   
-  - the Test Plan Document should be ready.
+  - the Test Plan Document should be ready
+  
+  - exploratory regression testing must be performed on X module, which includes the Dependents section
   
   
    <h2> 1.1.3 Exit criteria defined </h2>
