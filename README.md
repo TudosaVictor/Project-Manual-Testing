@@ -105,6 +105,8 @@
    - enter data for all available fields except one and check that the dependant is created
 
    - enter data for all available fields and check that the dependant is created
+
+   - check if the delete a system user action is working
    
     
 
