@@ -96,5 +96,15 @@
    
    <h1> 1.3 Test Analysis </h1>
    
+   The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+   
+   - check if the Add button is working
+
+   - view dependant details and check they are correct
+
+   - enter data for all available fields except one and check that the dependant is created
+
+   - enter data for all available fields and check that the dependant is created
+   
     
 
