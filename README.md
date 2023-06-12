@@ -15,7 +15,7 @@
 
 <p>   The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon. </p>
 
-<img src="https://yourimageshare.com/ib/nXfixVpu1j" alt="Add Users">
+<img src="https://yourimageshare.com/ib/nXfixVpu1j">
 
 <h1> 1. Testing section </h1>
 
