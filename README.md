@@ -15,7 +15,8 @@
 
 <p>   The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon. </p>
 
-<img src="">
+![add](https://github.com/TudosaVictor/Project-Manual-Testing/assets/125571503/3b0a5543-ede5-41b5-8ae6-01ff07a2480d)
+
 
 <h1> 1. Testing section </h1>
 
