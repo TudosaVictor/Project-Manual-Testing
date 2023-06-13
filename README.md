@@ -50,7 +50,7 @@
   
   - the Test Plan Document should be ready
   
-  - exploratory regression testing must be performed on X module, which includes the Dependents section
+  - exploratory regression testing must be performed on Admin module, which includes the Dependents section
   
   
    <h2> 1.1.3 Exit criteria defined </h2>
@@ -75,9 +75,9 @@
    
    <h2> 1.1.5 Risks detected </h2>
    
-   - Project risks: lack of tester experience, documentation not updated with the current version of the software
+   - Project risks: lack of tester experience, documentation not updated with the current version of the software, only one tester for the project
    
-   - Product risks: high competion on market
+   - Product risks: validation constraints on the fields might might be too restrictive to the end user 
 
 
 <h2>  1.1.6 Evaluating entry criteria </h2>
