@@ -112,4 +112,7 @@
 
    Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
 
+![Screenshot](test case1.png)
+   
+
    
