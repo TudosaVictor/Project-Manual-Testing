@@ -115,7 +115,8 @@
 ![test case1](https://github.com/TudosaVictor/Project-Manual-Testing/assets/125571503/ddc9f987-faff-4ec5-9326-6297e2c35b88)
 
 The test cases with the steps can be viewed here:
-PK
+
+[test cases.xlsx](https://github.com/TudosaVictor/Project-Manual-Testing/files/11949680/test.cases.xlsx)
 
 
    
