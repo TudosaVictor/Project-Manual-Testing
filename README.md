@@ -1,8 +1,8 @@
 <h1> Manual Testing Project </h1>
 
-   The scope of the final project is to use all gained knowledge throught the course and apply them in practice, using a live application OrangeHRM Demo.
+   The scope of the final project is to use all gained knowledge through the course and apply them in practice, using a live application OrangeHRM Demo.
       
-   Application under test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+   The application under test: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
   
    API Documentation: https://orangehrm.github.io/orangehrm-api-doc/
   
@@ -13,7 +13,7 @@
 
 <h1> Functional specifications </h1>
 
-<p>   The below Story was created in JIRA and describes the functional specifications of the Dependants module, for which the final project is performed upon. </p>
+<p>   The below Story was created in JIRA and describes the functional specifications of the Dependants module, upon which the final project is performed upon. </p>
 
 ![add](https://github.com/TudosaVictor/Project-Manual-Testing/assets/125571503/3b0a5543-ede5-41b5-8ae6-01ff07a2480d)
 
@@ -23,7 +23,7 @@
    <h2> Test planing </h2>
 <p>
     The Test Plan is designed to describe all details of testing for the Dependants module from the https://opensource-demo.orangehrmlive.com/ website.
-    It is a detailed document which describes software testing areas and activities. It outlines the test strategy, objectives, test schedule, required resources (human resources, software, and hardware), test estimation and test deliverables. </p>
+    It is a detailed document that describes software testing areas and activities. It outlines the test strategy, objectives, test schedule, required resources (human resources, software, and hardware), test estimation and test deliverables. </p>
 
 
    <h2> 1.1.1 Roles assigned to the project and persons allocated </h2>
@@ -32,7 +32,7 @@
   
   Product owner - 
   
-  Software developer - 
+  Software Developer - 
   
   QA Engineer - Victor Tudosa
   
@@ -42,7 +42,7 @@
   
   - the requirement document should be available
   
-  - complete understanding of the application flow is required
+  - a complete understanding of the application flow is required
   
   - roles needed for the project are allocated
   
@@ -50,7 +50,7 @@
   
   - the Test Plan Document should be ready
   
-  - exploratory regression testing must be performed on Admin module, which includes the Dependents section
+  - exploratory regression testing must be performed on the Admin module, which includes the Dependents section
   
   
    <h2> 1.1.3 Exit criteria defined </h2>
@@ -61,7 +61,7 @@
 
   - all resolved bugs have been re-tested and approved by the QA team
 
-  - deadline was reached
+  - the deadline was reached
 
   - no detected major risk remained un-mitigated
 
@@ -77,17 +77,17 @@
    
    - Project risks: lack of tester experience, documentation not updated with the current version of the software, only one tester for the project
    
-   - Product risks: validation constraints on the fields might might be too restrictive to the end user 
+   - Product risks: validation constraints on the fields might be too restrictive to the end user 
 
 
 <h2>  1.1.6 Evaluating entry criteria </h2>
 
-   The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+   The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
     
    
    <h1> 1.2 Test Monitoring and Control </h1>
    
-   Variou periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after x% of the test cases were executed, on 2023:
+   Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after x% of the test cases were executed, in 2023:
    
    *
    *
@@ -107,6 +107,9 @@
    - enter data for all available fields and check that the dependant is created
 
    - check if the delete a system user action is working
-   
-    
 
+   <h1> 1.3 Test Design </h1>
+
+   Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+
+   
