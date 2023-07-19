@@ -89,7 +89,7 @@
    
    Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after x% of the test cases were executed, in 2023:
    
-  ![The San Juan Mountains are beautiful!](/assets/chart.png)
+  ![(/assets/chart.png)](https://github.com/TudosaVictor/Project-Manual-Testing/blob/main/chart.png)
    
    <h1> 1.3 Test Analysis </h1>
    
