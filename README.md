@@ -87,7 +87,7 @@
    
    <h1> 1.2 Test Monitoring and Control </h1>
    
-   Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after x% of the test cases were executed, in 2023:
+   Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken. The following status report was generated after 29 of the test cases were executed, in 2023:
    
   ![(/assets/chart.png)](https://github.com/TudosaVictor/Project-Manual-Testing/blob/main/chart.png)
    
