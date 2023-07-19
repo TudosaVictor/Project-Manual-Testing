@@ -108,9 +108,9 @@
 
    - check if the delete a system user action is working
 
-   <h1> 1.3 Test Design </h1>
+   <h1> 1.4 Test Design </h1>
 
-   Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+   Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are smoke testing, database and use case testing.
 
 ![test case1](https://github.com/TudosaVictor/Project-Manual-Testing/assets/125571503/ddc9f987-faff-4ec5-9326-6297e2c35b88)
 
