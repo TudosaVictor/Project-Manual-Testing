@@ -122,8 +122,12 @@ The test cases with the steps can be viewed here:
    The following elements are needed to be ready before the test execution phase begins:
 
    Testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+   
    Access to the testing environment is given: Username : Admin | Password : admin123
+   
    The test cases are written for the story to be tested
+   
    Postman collection with the dependents API methods was created
+   
    Authorization token was created for accessing the API
    
